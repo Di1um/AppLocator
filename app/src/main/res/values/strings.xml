@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppLocator</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <!--MainActivity-->
+    <string name="location_nearby">Nearby Locations</string>
+    <string name="what_do_you_want_to_search">What do you want to search nearby?</string>
+    <string-array name="locations_nearby">
+        <item>Restaurant</item>
+        <item>Banks/ ATMs</item>
+        <item>Hotels</item>
+        <item>Fuel Stations</item>
+        <item>Libraries</item>
+    </string-array>
+    <string name="search_nearby">Search NearBy</string>
+</resources>
